@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LvCaApp</string>
+    <string name="some_text">
+     Some North American Countries!
+     </string>
+     <string name="some_hint">
+      Type here to filter&#8230;
+     </string>
+</resources>
